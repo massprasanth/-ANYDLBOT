@@ -16,7 +16,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "864002473:AAH5mMuPMff9VpbSCkh3Ndf2LcCpmo_OuvI"
     },
     "HTTP_DOMAIN": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
